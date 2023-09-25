@@ -1,4 +1,6 @@
-# O que é Versionamento de Código
+<h1 align="center"> Introdução </h1>
+
+### O que é Versionamento de Código
 
 É um sistema que permite rastrear e gerenciar alterações feitas no código fonte de um software ao longo do tempo. Ele desempenha um papel fundamental no desenvolvimento de software colaborativo, permitindo que várias pessoas trabalhem no mesmo projeto de forma eficiente e controlada.
 
@@ -23,3 +25,8 @@ Rastreamento de Problemas.
 ### O que é o Git 
 
 O Git é um dos sistemas de controle de versão mais populares e amplamente usados atualmente devido à sua flexibilidade, desempenho e capacidade de suportar uma variedade de fluxos de trabalho de desenvolvimento.
+
+### O que é o GitHub
+
+GitHub é uma plataforma de hospedagem de código para controle de versão e colaboração. Permite que você e outras pessoas trabalhem em conjunto em projetos de qualquer lugar.
+
