@@ -82,5 +82,37 @@ Você pode fazer e salvar as alterações nos arquivos do seu repositório. Cada
 
 Essas alterações serão feitas somente no arquivo README na branch ```feature```, ou seja, agora esse branch tem um conteúdo diferente de ```main```.
 
+### Abrindo um Pull Request
+
+Ao abrir um pull request, você está propondo suas alterações e solicitando que alguém analise e faça ``Pull`` na sua contribuição e os mescle na sua ``branch``.
+Os Pull Requests mostram diffs, ou diferenças, do conteúdo de ambos os branches. As alterações, adições e subtrações são exibidas em cores diferentes.    
+Assim que você fizer um commit, você poderá abrir um pull request e começar uma discussão, mesmo antes de o código ser concluído.
+
+Você pode até abrir *Pull Request* em seu próprio repositório e fazer merge você mesmo. É uma ótima maneira de aprender o fluxo de GitHub antes de trabalhar em projetos maiores.
+
+1. Clique na guia Solicitações de Pull Request do seu repositório.
+2. Selecione nova solicitação de Pull Request.
+3. Na caixa Compare e analise, selecione a Branch que foi criada, ex. ``feature``, para comprá-la com a ``main``.
+4. Veja as mudanças que você fez na página de Comparação e certifique-se que eles são o que você deseja enviar.
+5. Clique em Criar solicitação de Pull Request.
+6. Dê um título ao seu pull request e escreva uma breve descrição das suas alterações. Você pode incluir emojis e arrastar e soltar imagens e gifs.
+
+
+![image](https://github.com/rxaviersantos/BootcampWEX/assets/85380530/1925a505-9a98-4d77-8b8a-c5200742c365)
+
+![image](https://github.com/rxaviersantos/BootcampWEX/assets/85380530/bf607c6b-c801-4f34-b5ca-90b3dd65df7e)
+
+![image](https://github.com/rxaviersantos/BootcampWEX/assets/85380530/dd2c032a-f062-40a2-b0c5-115b70bddda0)
+
+![image](https://github.com/rxaviersantos/BootcampWEX/assets/85380530/fdfca010-d074-43c4-bf80-2535bf75c688)
+
+
+
+   
+
+
+
+
+
 
 
