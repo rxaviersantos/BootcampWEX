@@ -1,0 +1,15 @@
+F:\projetos\BootcampWEX\net\obj\Debug\net7.0\net.csproj.AssemblyReference.cache
+F:\projetos\BootcampWEX\net\obj\Debug\net7.0\net.GeneratedMSBuildEditorConfig.editorconfig
+F:\projetos\BootcampWEX\net\obj\Debug\net7.0\net.AssemblyInfoInputs.cache
+F:\projetos\BootcampWEX\net\obj\Debug\net7.0\net.AssemblyInfo.cs
+F:\projetos\BootcampWEX\net\obj\Debug\net7.0\net.csproj.CoreCompileInputs.cache
+F:\projetos\BootcampWEX\net\bin\Debug\net7.0\net.exe
+F:\projetos\BootcampWEX\net\bin\Debug\net7.0\net.deps.json
+F:\projetos\BootcampWEX\net\bin\Debug\net7.0\net.runtimeconfig.json
+F:\projetos\BootcampWEX\net\bin\Debug\net7.0\net.dll
+F:\projetos\BootcampWEX\net\bin\Debug\net7.0\net.pdb
+F:\projetos\BootcampWEX\net\obj\Debug\net7.0\net.dll
+F:\projetos\BootcampWEX\net\obj\Debug\net7.0\refint\net.dll
+F:\projetos\BootcampWEX\net\obj\Debug\net7.0\net.pdb
+F:\projetos\BootcampWEX\net\obj\Debug\net7.0\net.genruntimeconfig.cache
+F:\projetos\BootcampWEX\net\obj\Debug\net7.0\ref\net.dll

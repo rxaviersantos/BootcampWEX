@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/workspaces/BootcampWEX/net/net.csproj": {}
+    "F:\\projetos\\BootcampWEX\\net\\net.csproj": {}
   },
   "projects": {
-    "/workspaces/BootcampWEX/net/net.csproj": {
+    "F:\\projetos\\BootcampWEX\\net\\net.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/workspaces/BootcampWEX/net/net.csproj",
+        "projectUniqueName": "F:\\projetos\\BootcampWEX\\net\\net.csproj",
         "projectName": "net",
-        "projectPath": "/workspaces/BootcampWEX/net/net.csproj",
-        "packagesPath": "/home/codespace/.nuget/packages/",
-        "outputPath": "/workspaces/BootcampWEX/net/obj/",
+        "projectPath": "F:\\projetos\\BootcampWEX\\net\\net.csproj",
+        "packagesPath": "C:\\Users\\Rodrigo\\.nuget\\packages\\",
+        "outputPath": "F:\\projetos\\BootcampWEX\\net\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/codespace/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Rodrigo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -53,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/dotnet/7.0.306/sdk/7.0.306/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }
