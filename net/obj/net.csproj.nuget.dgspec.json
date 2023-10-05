@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "f:\\projetos\\BootcampWEX\\net\\net.csproj": {}
+    "F:\\projetos\\BootcampWEX\\net\\net.csproj": {}
   },
   "projects": {
-    "f:\\projetos\\BootcampWEX\\net\\net.csproj": {
+    "F:\\projetos\\BootcampWEX\\net\\net.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "f:\\projetos\\BootcampWEX\\net\\net.csproj",
+        "projectUniqueName": "F:\\projetos\\BootcampWEX\\net\\net.csproj",
         "projectName": "net",
-        "projectPath": "f:\\projetos\\BootcampWEX\\net\\net.csproj",
+        "projectPath": "F:\\projetos\\BootcampWEX\\net\\net.csproj",
         "packagesPath": "C:\\Users\\Rodrigo\\.nuget\\packages\\",
-        "outputPath": "f:\\projetos\\BootcampWEX\\net\\obj\\",
+        "outputPath": "F:\\projetos\\BootcampWEX\\net\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Rodrigo\\AppData\\Roaming\\NuGet\\NuGet.Config",
