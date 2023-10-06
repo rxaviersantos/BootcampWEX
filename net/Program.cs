@@ -190,6 +190,15 @@ internal class Programa
         {
             Console.WriteLine("Vou pedalar um outro dia!");
         }
+
+        //Instanciando a classe calculadora
+        Calculadora calc = new Calculadora();
+        calc.Somar(10, 40);
+        calc.Subtrair(8, 4);
+        calc.Multiplicar(15, 5);
+        calc.Dividir(100, 10);
+        calc.Potencia(3, 3);
+
     }
 }
 
