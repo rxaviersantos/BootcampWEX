@@ -208,6 +208,72 @@ internal class Programa
             Console.WriteLine($"{numero} x {contador} = {numero * contador}");
 
 
+        // While
+        int num = 5;
+        int cont = 10;
+
+        while (cont <= 10)
+        {
+            Console.WriteLine($"{cont + 1} Execução: {num} x {cont} = {num * cont}");
+
+            break;
+        }
+
+        // do While
+        int soma = 0, nuu = 0;
+        do
+        {
+            Console.WriteLine("Digite um número (0 para parar): ");
+            nuu = Convert.ToInt32(Console.ReadLine());
+
+            soma += nuu;
+
+        } while (nuu != 0);
+        Console.WriteLine($"Total da soma dos números digitados é: {soma}");
+
+
+        // Construindo menu interativo 
+        string opcao;
+        bool exibirMenu = true;
+
+        while (exibirMenu)
+        {
+            Console.Clear();
+            Console.WriteLine("Digite sua opção");
+            Console.WriteLine("1 - Cadastrar cliente");
+            Console.WriteLine("2 - Buscar cliente");
+            Console.WriteLine("3 - Apagar cliente");
+            Console.WriteLine("4 - Encerrar");
+
+            opcao = Console.ReadLine();
+
+            switch (opcao)
+            {
+                case "1":
+                    Console.WriteLine("Cadastro de cliente");
+                    break;
+
+                case "2":
+                    Console.WriteLine("Busca de cliente");
+                    break;
+
+                case "3":
+                    Console.WriteLine("Apagar cliente");
+                    break;
+
+                case "4":
+                    Console.WriteLine("Encerrar");
+                    exibirMenu = false;
+                    // Environment.Exit(0);
+                    break;
+
+                default:
+                    Console.WriteLine("Opção inválida");
+                    break;
+            }
+
+            Console.WriteLine("O programa se encerrou");
+        }
 
     }
 }
