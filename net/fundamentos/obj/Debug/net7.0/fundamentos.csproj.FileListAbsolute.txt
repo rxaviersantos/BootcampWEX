@@ -1,0 +1,15 @@
+F:\projetos\BootcampWEX\net\fundamentos\bin\Debug\net7.0\fundamentos.exe
+F:\projetos\BootcampWEX\net\fundamentos\bin\Debug\net7.0\fundamentos.deps.json
+F:\projetos\BootcampWEX\net\fundamentos\bin\Debug\net7.0\fundamentos.runtimeconfig.json
+F:\projetos\BootcampWEX\net\fundamentos\bin\Debug\net7.0\fundamentos.dll
+F:\projetos\BootcampWEX\net\fundamentos\bin\Debug\net7.0\fundamentos.pdb
+F:\projetos\BootcampWEX\net\fundamentos\obj\Debug\net7.0\fundamentos.csproj.AssemblyReference.cache
+F:\projetos\BootcampWEX\net\fundamentos\obj\Debug\net7.0\fundamentos.GeneratedMSBuildEditorConfig.editorconfig
+F:\projetos\BootcampWEX\net\fundamentos\obj\Debug\net7.0\fundamentos.AssemblyInfoInputs.cache
+F:\projetos\BootcampWEX\net\fundamentos\obj\Debug\net7.0\fundamentos.AssemblyInfo.cs
+F:\projetos\BootcampWEX\net\fundamentos\obj\Debug\net7.0\fundamentos.csproj.CoreCompileInputs.cache
+F:\projetos\BootcampWEX\net\fundamentos\obj\Debug\net7.0\fundamentos.dll
+F:\projetos\BootcampWEX\net\fundamentos\obj\Debug\net7.0\refint\fundamentos.dll
+F:\projetos\BootcampWEX\net\fundamentos\obj\Debug\net7.0\fundamentos.pdb
+F:\projetos\BootcampWEX\net\fundamentos\obj\Debug\net7.0\fundamentos.genruntimeconfig.cache
+F:\projetos\BootcampWEX\net\fundamentos\obj\Debug\net7.0\ref\fundamentos.dll
