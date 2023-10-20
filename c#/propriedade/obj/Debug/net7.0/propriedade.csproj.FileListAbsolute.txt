@@ -1,0 +1,5 @@
+F:\projetos\BootcampWEX\c#\propriedade\obj\Debug\net7.0\propriedade.csproj.AssemblyReference.cache
+F:\projetos\BootcampWEX\c#\propriedade\obj\Debug\net7.0\propriedade.GeneratedMSBuildEditorConfig.editorconfig
+F:\projetos\BootcampWEX\c#\propriedade\obj\Debug\net7.0\propriedade.AssemblyInfoInputs.cache
+F:\projetos\BootcampWEX\c#\propriedade\obj\Debug\net7.0\propriedade.AssemblyInfo.cs
+F:\projetos\BootcampWEX\c#\propriedade\obj\Debug\net7.0\propriedade.csproj.CoreCompileInputs.cache
