@@ -1,5 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
-using propriedade.models;
+using propriedade.Models
 
 Pessoa p1 = new Pessoa();
 p1.Nome = "Lorena";

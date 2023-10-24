@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\projetos\\BootcampWEX\\c#\\propriedade\\propriedade.csproj": {}
+    "F:\\projetos\\BootcampWEX\\c#\\propriedades\\propriedade.csproj": {}
   },
   "projects": {
-    "F:\\projetos\\BootcampWEX\\c#\\propriedade\\propriedade.csproj": {
+    "F:\\projetos\\BootcampWEX\\c#\\propriedades\\propriedade.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\projetos\\BootcampWEX\\c#\\propriedade\\propriedade.csproj",
+        "projectUniqueName": "F:\\projetos\\BootcampWEX\\c#\\propriedades\\propriedade.csproj",
         "projectName": "propriedade",
-        "projectPath": "F:\\projetos\\BootcampWEX\\c#\\propriedade\\propriedade.csproj",
+        "projectPath": "F:\\projetos\\BootcampWEX\\c#\\propriedades\\propriedade.csproj",
         "packagesPath": "C:\\Users\\Rodrigo\\.nuget\\packages\\",
-        "outputPath": "F:\\projetos\\BootcampWEX\\c#\\propriedade\\obj\\",
+        "outputPath": "F:\\projetos\\BootcampWEX\\c#\\propriedades\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Rodrigo\\AppData\\Roaming\\NuGet\\NuGet.Config",
