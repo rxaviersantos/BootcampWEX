@@ -1,0 +1,15 @@
+F:\projetos\BootcampWEX\nuget\bin\Debug\net7.0\nuget.exe
+F:\projetos\BootcampWEX\nuget\bin\Debug\net7.0\nuget.deps.json
+F:\projetos\BootcampWEX\nuget\bin\Debug\net7.0\nuget.runtimeconfig.json
+F:\projetos\BootcampWEX\nuget\bin\Debug\net7.0\nuget.dll
+F:\projetos\BootcampWEX\nuget\bin\Debug\net7.0\nuget.pdb
+F:\projetos\BootcampWEX\nuget\obj\Debug\net7.0\nuget.csproj.AssemblyReference.cache
+F:\projetos\BootcampWEX\nuget\obj\Debug\net7.0\nuget.GeneratedMSBuildEditorConfig.editorconfig
+F:\projetos\BootcampWEX\nuget\obj\Debug\net7.0\nuget.AssemblyInfoInputs.cache
+F:\projetos\BootcampWEX\nuget\obj\Debug\net7.0\nuget.AssemblyInfo.cs
+F:\projetos\BootcampWEX\nuget\obj\Debug\net7.0\nuget.csproj.CoreCompileInputs.cache
+F:\projetos\BootcampWEX\nuget\obj\Debug\net7.0\nuget.dll
+F:\projetos\BootcampWEX\nuget\obj\Debug\net7.0\refint\nuget.dll
+F:\projetos\BootcampWEX\nuget\obj\Debug\net7.0\nuget.pdb
+F:\projetos\BootcampWEX\nuget\obj\Debug\net7.0\nuget.genruntimeconfig.cache
+F:\projetos\BootcampWEX\nuget\obj\Debug\net7.0\ref\nuget.dll

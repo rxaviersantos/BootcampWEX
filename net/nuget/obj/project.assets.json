@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\projetos\\nuget\\nuget.csproj",
+      "projectUniqueName": "F:\\projetos\\BootcampWEX\\nuget\\nuget.csproj",
       "projectName": "nuget",
-      "projectPath": "F:\\projetos\\nuget\\nuget.csproj",
+      "projectPath": "F:\\projetos\\BootcampWEX\\nuget\\nuget.csproj",
       "packagesPath": "C:\\Users\\Rodrigo\\.nuget\\packages\\",
-      "outputPath": "F:\\projetos\\nuget\\obj\\",
+      "outputPath": "F:\\projetos\\BootcampWEX\\nuget\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Rodrigo\\AppData\\Roaming\\NuGet\\NuGet.Config",
